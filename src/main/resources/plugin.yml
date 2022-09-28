@@ -1,0 +1,7 @@
+name: CooldownManagerExample
+version: '${project.version}'
+main: com.github.happyrogelio7.cooldownmanagerexample.CooldownManagerExample
+api-version: 1.19
+authors: [ HappyRogelio7 ]
+description: CooldownManager Example plugin
+website: https://github.com/HappyRogelio7
